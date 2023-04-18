@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823820369067",
+    "project_id": "gentle-platform-245417",
+    "storage_bucket": "gentle-platform-245417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823820369067:android:a91dde00e404def6384bee",
+        "android_client_info": {
+          "package_name": "edu.ub.pis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823820369067-aebk3lnmkhpjj1cnt2lpchdj12fnf04f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkbb_pS9c31Cfs8c4reFmAsgMOA2oqTsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823820369067-aebk3lnmkhpjj1cnt2lpchdj12fnf04f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
