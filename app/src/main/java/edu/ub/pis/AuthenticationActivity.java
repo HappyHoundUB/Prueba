@@ -48,6 +48,8 @@ public class AuthenticationActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 signUp(mEmail.toString(), mPassword.toString());
+                //òwhfowrjf iwjg
+                //fokwrnfo
 
             }
         });
